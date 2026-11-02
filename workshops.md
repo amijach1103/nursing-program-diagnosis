@@ -1,6 +1,6 @@
 # The workshop series
 
-A kickoff and six virtual workshops, from 2021 into 2022, to help a nursing school's faculty and leadership act on the program analysis. Agendas and outlines are plans; where session notes show what happened, it's marked.
+A kickoff and six virtual workshops to help a nursing school's faculty and leadership act on the program analysis. Agendas and outlines are plans; where session notes show what happened, it's marked.
 
 ## The arc
 

@@ -1,6 +1,6 @@
 # The program analysis: method and report format
 
-How we mapped a nursing school's courses against the AACN's competency standards, and how the reports were laid out. No client data, course names or results are here, and the lab's own framework isn't reproduced.
+How we mapped a nursing school's courses against new national competency standards for nursing education, and how the reports were laid out. No client data, course names or results are here, and the lab's own framework isn't reproduced.
 
 ## Inputs
 
@@ -11,7 +11,7 @@ How we mapped a nursing school's courses against the AACN's competency standards
 ## The mapping
 
 1. **One row per objective.** For each course, every learning objective went in a table with the assessments tied to it.
-2. **Tag it to the standards.** Each objective was mapped to the domain, competency and sub-competency it addressed: 10 domains and 45 competencies. Around 500 objectives were tagged across both programs.
+2. **Tag it to the standards.** Each objective was mapped to the domain, competency and sub-competency it addressed. Around 500 objectives were tagged across both programs.
 3. **Check the level.** The standards mark sub-competencies as entry level or advanced, so we counted both and checked them against the program's level.
 4. **Check the activities.** We split the standards' definition of active learning into six yes/no questions and answered them for every course we analyzed in depth: does it ask students to act on what they know, are the objectives clear, is practice guided, is progress assessed regularly, is feedback frequent, and do students assess their own competence?
 5. **Say what we couldn't see.** Where something wasn't visible in the materials, like evaluation criteria, the report says so and allows it may be clear in class.

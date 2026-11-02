@@ -1,12 +1,12 @@
 # Diagnosing a nursing program against new competency standards
 
-A client engagement I led in 2021 and 2022 at a research and development lab: a university nursing school's bachelor's and master's programs mapped against the American Association of Colleges of Nursing's new competency standards, then a workshop series to help faculty act on the results.
+A client engagement I led at a research and development lab: a university nursing school's bachelor's and master's programs mapped against new national competency standards for nursing education, then a workshop series to help faculty act on the results.
 
-**About 80** courses analyzed in depth · **10** domains, **45** competencies · **a kickoff and 6** workshops
+**About 80** courses analyzed in depth · **around 500** learning objectives tagged · **a kickoff and 6** workshops
 
 ## Context
 
-The American Association of Colleges of Nursing (AACN) asked nursing schools to move to a competency-based model. A prominent nursing school came to us to start that process, and I led the first engagement: diagnose where the programs stood, and kick off the change with faculty and leadership. We talked with students, faculty and leadership to understand the student experience.
+The national standards body for nursing education asked nursing schools to move to a competency-based model. A prominent nursing school came to us to start that process, and I led the first engagement: diagnose where the programs stood, and kick off the change with faculty and leadership. We talked with students, faculty and leadership to understand the student experience.
 
 ## How we diagnosed the programs
 
